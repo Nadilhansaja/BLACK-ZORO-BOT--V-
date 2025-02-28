@@ -2,14 +2,14 @@ module.exports = {
     /** ─── Auto Features ─────  */
     autoLikeStatus: true,
     /** ─── Owner Information ─── */
-    ownerNumber: '94773010580',
+    ownerNumber: '94717202954',
 
     /** ─── Bot Details ──────── */
     botDetails: {
-        botName: 'Fenix Id A7',
+        botName: 'NADIL HANSAJA',
         botLocation: 'Srilanka (🇱🇰)',
-        botAge: '26',
-        botEmail: 'privateloginemails@gmail.com',
+        botAge: '19',
+        botEmail: 'chutyputha01@gmail.com',
     },
 
     /** ─── Fenix Custom Messages ────── */
